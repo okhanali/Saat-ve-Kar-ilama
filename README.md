@@ -12,11 +12,6 @@ Kodluyoruz Frontend Web Development Patikası – JavaScript bölümü 1. ödevi
 - ⚡ Tamamen HTML, CSS ve Vanilla JavaScript ile yazıldı.
 
 
-## 📸 Tanıtım
-
-Aşağıda projeye ait tanıtım GIF'ini görebilirsiniz:
-
-![Karşılama Uygulaması Tanıtımı](./gif/Saatkarlama-ezgif.com-gif-maker.mp4) 
 
 ## 🔧 Kullanılan Teknolojiler
 
